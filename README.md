@@ -1,2 +1,2 @@
 # trex
-it's a game for gamer
+it's a game for the gamer
